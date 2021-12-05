@@ -96,9 +96,10 @@ img {
 .site-nav {
   display: flex;
   align-items: center;
+}
+.site-nav.container {
   border-bottom: 1px solid #ececec;
 }
-
 .site-nav .list {
   display: flex;
   margin-left: 93px;
